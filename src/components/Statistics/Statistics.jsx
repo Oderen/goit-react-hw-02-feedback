@@ -14,10 +14,6 @@ export default function Statistics({
     <div className={css.container}>
       {total() > 0 ? (
         <>
-          <h2>
-            <b>Statistics</b>
-          </h2>
-
           <div className={css.innerContainer}>
             <p>
               <b>Good</b>: {good}
