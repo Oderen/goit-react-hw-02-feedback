@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Oderen/goit-react-hw-02-feedback/static/css/main.48c30ff7.css",
-    "main.js": "/Oderen/goit-react-hw-02-feedback/static/js/main.5454121d.js",
+    "main.js": "/Oderen/goit-react-hw-02-feedback/static/js/main.e92523ce.js",
     "index.html": "/Oderen/goit-react-hw-02-feedback/index.html",
     "main.48c30ff7.css.map": "/Oderen/goit-react-hw-02-feedback/static/css/main.48c30ff7.css.map",
-    "main.5454121d.js.map": "/Oderen/goit-react-hw-02-feedback/static/js/main.5454121d.js.map"
+    "main.e92523ce.js.map": "/Oderen/goit-react-hw-02-feedback/static/js/main.e92523ce.js.map"
   },
   "entrypoints": [
     "static/css/main.48c30ff7.css",
-    "static/js/main.5454121d.js"
+    "static/js/main.e92523ce.js"
   ]
 }
